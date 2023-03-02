@@ -1,3 +1,4 @@
+"""Prueba"""
 class automoviles():
     def __init__(self, motor, marca, modelo):
         self.motor = motor
